@@ -1,1 +1,21 @@
-# leetcode-solutions
+# LeetCode Solutions
+
+This repository contains my solutions to LeetCode problems as part of my Data Structures & Algorithms and interview preparation.
+
+## Language
+- Python
+
+## Goals
+- Strengthen problem-solving skills
+- Prepare for AI/ML internship interviews
+- Learn common coding interview patterns
+
+## Progress
+
+| Difficulty | Solved |
+|------------|--------|
+| Easy | 0 |
+| Medium | 0 |
+| Hard | 0 |
+
+I'll continue updating this repository as I solve more problems.
