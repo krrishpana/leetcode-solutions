@@ -19,3 +19,19 @@ This repository contains my solutions to LeetCode problems as part of my Data St
 | Hard | 0 |
 
 I'll continue updating this repository as I solve more problems.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/krrishpana/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/krrishpana/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/krrishpana/leetcode-solutions/tree/master/0217-contains-duplicate) |
+<!---LeetCode Topics End-->
