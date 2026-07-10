@@ -37,8 +37,14 @@ I'll continue updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/krrishpana/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/krrishpana/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/krrishpana/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/krrishpana/leetcode-solutions/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/krrishpana/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
