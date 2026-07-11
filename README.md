@@ -32,10 +32,12 @@ I'll continue updating this repository as I solve more problems.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krrishpana/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/krrishpana/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krrishpana/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/krrishpana/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krrishpana/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
