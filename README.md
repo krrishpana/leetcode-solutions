@@ -56,6 +56,7 @@ I'll continue updating this repository as I solve more problems.
 | [0242-valid-anagram](https://github.com/krrishpana/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/krrishpana/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/krrishpana/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/krrishpana/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +73,7 @@ I'll continue updating this repository as I solve more problems.
 | [0125-valid-palindrome](https://github.com/krrishpana/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/krrishpana/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/krrishpana/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/krrishpana/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,6 +114,7 @@ I'll continue updating this repository as I solve more problems.
 | [0042-trapping-rain-water](https://github.com/krrishpana/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/krrishpana/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krrishpana/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/krrishpana/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,4 +141,5 @@ I'll continue updating this repository as I solve more problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krrishpana/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/krrishpana/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/krrishpana/leetcode-solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
